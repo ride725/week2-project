@@ -1,0 +1,34 @@
+html, head, body, h1, h2, h3, a, nav, p, {
+    padding: 0;
+    font-size: 100%;
+    font: inherit;
+}
+body, h1, h1, h3, a, nav, p {
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    text-align: center;
+}
+body {
+    background: aqua url(images/wood-background.jpg) top left no-repeat;
+
+}
+a {
+    font-weight: bold;
+    font-size: 25px;
+    padding: 9px;
+    border: 3px solid #4767d3;
+    margin: 4px;
+    color: azure;
+
+    }
+h1 {
+    font-size: 55px;
+    font-weight: bolder;
+}
+h2 {
+    
+}
+h3 {
+    font-size: 18px;
+    font-family: Cambria, Georgia, 'Times New Roman', serif;
+    color: rgb(57, 46, 104);
+}
